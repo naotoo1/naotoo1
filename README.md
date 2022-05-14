@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nana
-- 👀 I’m  an Applied Mathematician currently working on Machine learning ,Deep learning , AI and Data Sciences.
-- 🌱 I’m researching into intrepretable machine learning in the area of LVQ's
-- 💞️ I’m currently looking for jobs and open for work in Deutschland
+- 👀 I’m  Data Scientist working on Machine learning ,Deep learning , AI and Data Sciences.
+- 🌱 I’m interested in  Data Science projects, Prototype-based Machine learning models(LVQ's) and Research & Development in AI
 - 📫 How to reach me abekaotoo@gmail.com
 
 <!---
